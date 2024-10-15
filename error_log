@@ -1,0 +1,147 @@
+[02-Aug-2024 12:21:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[02-Aug-2024 13:04:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vpbgvvdz/public_html/pd.php on line 397
+[02-Aug-2024 14:00:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[02-Aug-2024 14:00:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[02-Aug-2024 14:05:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[02-Aug-2024 14:06:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[02-Aug-2024 15:02:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[02-Aug-2024 17:51:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[02-Aug-2024 17:51:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[02-Aug-2024 18:06:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[02-Aug-2024 21:06:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[03-Aug-2024 01:52:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[03-Aug-2024 06:02:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[03-Aug-2024 07:31:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[03-Aug-2024 12:21:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[03-Aug-2024 13:51:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[03-Aug-2024 13:51:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[03-Aug-2024 13:51:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[03-Aug-2024 15:37:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[04-Aug-2024 17:46:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[04-Aug-2024 17:46:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[04-Aug-2024 17:46:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[04-Aug-2024 17:59:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[04-Aug-2024 18:03:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[05-Aug-2024 00:08:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[05-Aug-2024 13:04:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[05-Aug-2024 18:11:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[05-Aug-2024 18:45:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[05-Aug-2024 18:45:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[05-Aug-2024 18:45:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[05-Aug-2024 19:27:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[05-Aug-2024 21:38:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[06-Aug-2024 00:11:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[06-Aug-2024 05:43:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[06-Aug-2024 07:18:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[06-Aug-2024 07:18:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[07-Aug-2024 10:04:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[07-Aug-2024 21:08:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[08-Aug-2024 15:10:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[08-Aug-2024 18:10:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[08-Aug-2024 21:07:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[09-Aug-2024 00:10:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[09-Aug-2024 02:16:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[11-Aug-2024 06:11:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[11-Aug-2024 06:11:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[11-Aug-2024 06:11:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[11-Aug-2024 06:45:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[11-Aug-2024 06:45:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[11-Aug-2024 14:37:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[11-Aug-2024 15:15:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[12-Aug-2024 05:14:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[12-Aug-2024 09:10:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vpbgvvdz/public_html/pd.php on line 400
+[12-Aug-2024 11:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[12-Aug-2024 11:04:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[12-Aug-2024 11:04:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[12-Aug-2024 18:14:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[13-Aug-2024 12:57:36 UTC] PHP Parse error:  syntax error, unexpected 'MPESA' (T_STRING), expecting ')' in /home/vpbgvvdz/public_html/p.php on line 121
+[13-Aug-2024 12:57:55 UTC] PHP Parse error:  syntax error, unexpected 'MPESA' (T_STRING), expecting ')' in /home/vpbgvvdz/public_html/p.php on line 121
+[13-Aug-2024 13:23:38 UTC] PHP Warning:  require(db_connection.php): failed to open stream: No such file or directory in /home/vpbgvvdz/public_html/p.php on line 59
+[13-Aug-2024 13:23:38 UTC] PHP Warning:  require(db_connection.php): failed to open stream: No such file or directory in /home/vpbgvvdz/public_html/p.php on line 59
+[13-Aug-2024 13:23:38 UTC] PHP Fatal error:  require(): Failed opening required 'db_connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/vpbgvvdz/public_html/p.php on line 59
+[13-Aug-2024 13:24:30 UTC] PHP Notice:  Undefined index: amount in /home/vpbgvvdz/public_html/p.php on line 63
+[13-Aug-2024 13:25:01 UTC] PHP Notice:  Undefined index: amount in /home/vpbgvvdz/public_html/p.php on line 63
+[13-Aug-2024 13:25:52 UTC] PHP Notice:  Undefined index: amount in /home/vpbgvvdz/public_html/p.php on line 63
+[13-Aug-2024 13:25:52 UTC] PHP Notice:  Undefined variable: amount in /home/vpbgvvdz/public_html/p.php on line 67
+[13-Aug-2024 13:27:35 UTC] PHP Notice:  Undefined index: amount in /home/vpbgvvdz/public_html/p.php on line 63
+[13-Aug-2024 13:27:45 UTC] PHP Notice:  Undefined index: amount in /home/vpbgvvdz/public_html/p.php on line 63
+[13-Aug-2024 17:08:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vpbgvvdz/public_html/pd.php on line 404
+[13-Aug-2024 17:09:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vpbgvvdz/public_html/pd.php on line 404
+[13-Aug-2024 18:16:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[14-Aug-2024 02:18:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[14-Aug-2024 10:23:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/edit.php on line 3
+[14-Aug-2024 10:25:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/edit.php on line 3
+[14-Aug-2024 10:48:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/p.php on line 3
+[14-Aug-2024 10:57:35 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/vpbgvvdz/public_html/p.php:118) in /home/vpbgvvdz/public_html/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/vpbgvvdz/public_html/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/vpbgvvdz/public_html/fpdf/fpdf.php(1016): FPDF->_checkoutput()
+#2 /home/vpbgvvdz/public_html/p.php(196): FPDF->Output('D', 'my_statement.pd...')
+#3 /home/vpbgvvdz/public_html/p.php(120): generatePdf('300', 1, 2979, 'SHE51N0BR3')
+#4 {main}
+  thrown in /home/vpbgvvdz/public_html/fpdf/fpdf.php on line 273
+[14-Aug-2024 12:19:24 UTC] PHP Notice:  Undefined index: icon in /home/vpbgvvdz/public_html/p.php on line 332
+[14-Aug-2024 12:19:24 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/vpbgvvdz/public_html/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/vpbgvvdz/public_html/fpdf/fpdf.php(872): FPDF->Error('Image file name...')
+#1 /home/vpbgvvdz/public_html/p.php(332): FPDF->Image(NULL, 80.000777777778, 10, 50, 0, 'PNG')
+#2 {main}
+  thrown in /home/vpbgvvdz/public_html/fpdf/fpdf.php on line 273
+[14-Aug-2024 12:20:53 UTC] PHP Notice:  Undefined index: icon in /home/vpbgvvdz/public_html/p.php on line 332
+[14-Aug-2024 12:20:53 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/vpbgvvdz/public_html/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/vpbgvvdz/public_html/fpdf/fpdf.php(872): FPDF->Error('Image file name...')
+#1 /home/vpbgvvdz/public_html/p.php(332): FPDF->Image(NULL, 80.000777777778, 10, 50, 0, 'PNG')
+#2 {main}
+  thrown in /home/vpbgvvdz/public_html/fpdf/fpdf.php on line 273
+[14-Aug-2024 12:21:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:21:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:22:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:22:54 UTC] PHP Notice:  Undefined index: sturecmsaid in /home/vpbgvvdz/public_html/pd.php on line 6
+[14-Aug-2024 12:22:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:22:59 UTC] PHP Notice:  Undefined index: sturecmsaid in /home/vpbgvvdz/public_html/pd.php on line 6
+[14-Aug-2024 12:22:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:23:26 UTC] PHP Notice:  Undefined index: sturecmsaid in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:23:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 8
+[14-Aug-2024 12:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:33:42 UTC] PHP Notice:  Undefined variable: last_id in /home/vpbgvvdz/public_html/p.php on line 101
+[14-Aug-2024 12:33:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/vpbgvvdz/public_html/p.php:101) in /home/vpbgvvdz/public_html/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/vpbgvvdz/public_html/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/vpbgvvdz/public_html/fpdf/fpdf.php(1016): FPDF->_checkoutput()
+#2 /home/vpbgvvdz/public_html/p.php(206): FPDF->Output('D', 'my_statement.pd...')
+#3 /home/vpbgvvdz/public_html/p.php(122): generatePdf('300', 1, 2972, 'SHE11ZE8A3', 105)
+#4 {main}
+  thrown in /home/vpbgvvdz/public_html/fpdf/fpdf.php on line 273
+[14-Aug-2024 12:35:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[14-Aug-2024 12:57:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vpbgvvdz/public_html/between-date-reprtsdetails.php on line 106
+[14-Aug-2024 13:20:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/edit.php on line 3
+[14-Aug-2024 13:20:37 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/vpbgvvdz/public_html/payphp.php on line 65
+[14-Aug-2024 13:20:38 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/vpbgvvdz/public_html/payphp.php on line 65
+[14-Aug-2024 13:20:44 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/vpbgvvdz/public_html/payphp.php on line 65
+[14-Aug-2024 13:20:48 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/vpbgvvdz/public_html/payphp.php on line 65
+[14-Aug-2024 13:21:27 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/vpbgvvdz/public_html/payphp.php on line 65
+[14-Aug-2024 13:21:35 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/vpbgvvdz/public_html/payphp.php on line 65
+[14-Aug-2024 13:22:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/edit.php on line 3
+[14-Aug-2024 13:23:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vpbgvvdz/public_html/pd.php on line 399
+[14-Aug-2024 13:35:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/edit.php on line 3
+[14-Aug-2024 15:53:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/edit.php on line 3
+[14-Aug-2024 18:22:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[14-Aug-2024 19:31:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 02:08:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/vpbgvvdz/public_html/add-students.php on line 101
+[15-Aug-2024 02:27:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vpbgvvdz/public_html/includes/dbconnection.php:21) in /home/vpbgvvdz/public_html/pd.php on line 7
+[15-Aug-2024 02:41:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 02:41:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 03:09:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 03:10:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 03:11:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 03:11:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 03:13:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 03:13:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 03:13:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 04:50:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/forgot.php on line 3
+[15-Aug-2024 09:24:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vpbgvvdz/public_html/edit.php on line 3
+[20-Aug-2024 08:00:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vpbgvvdz/public_html/send.php on line 194
+[20-Aug-2024 08:00:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vpbgvvdz/public_html/send.php on line 194
+[20-Aug-2024 08:00:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vpbgvvdz/public_html/send.php on line 194
+[20-Aug-2024 08:01:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vpbgvvdz/public_html/send.php on line 194
