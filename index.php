@@ -252,7 +252,7 @@ if (isset($_POST['login'])) {
         </div>
     </div>
     
-   
+   <!--  Just conme-->
       <!--  <script src="assets/vendors/js/vendor.bundle.base.js"></script>-->
     <script src="vendor.bundle.base.js"></script>
      <!--  <script src="assets/js/off-canvas.js"></script>-->
