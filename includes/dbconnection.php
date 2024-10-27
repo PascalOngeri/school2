@@ -4,6 +4,10 @@ define('DB_HOST','173.249.20.229');
 define('DB_USER','remote');
 define('DB_PASS','Qwerty245!');
 define('DB_NAME','schoolsystem');
+//define('DB_HOST','localhost');
+//define('DB_USER','root');
+//define('DB_PASS','@mesopotamia123');
+//define('DB_NAME','schoolsystem');
 
 
 // Establish database connection.
