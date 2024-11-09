@@ -1,27 +1,24 @@
-<?php 
-// DB credentials.
-define('DB_HOST','173.249.20.229');
-define('DB_USER','remote');
-define('DB_PASS','Qwerty245!');
-define('DB_NAME','schoolsystem');
-//define('DB_HOST','localhost');
-//define('DB_USER','root');
-//define('DB_PASS','@mesopotamia123');
-//define('DB_NAME','schoolsystem');
+<?php
+require __DIR__ . '/../vendor/autoload.php';  // Correct relative path from includes to vendor
 
+// Load the .env file from the root and includes directories
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__ . '/..');  // Load root .env file
+$dotenv->load();
 
-// Establish database connection.
-try
-{
-$dbh = new PDO("mysql:host=".DB_HOST.";dbname=".DB_NAME,DB_USER, DB_PASS,array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES 'utf8'"));
+$dotenvIncludes = Dotenv\Dotenv::createImmutable(__DIR__);  // Load .env from includes directory
+$dotenvIncludes->load();
+
+// Create the database connection using the loaded environment variables
+try {
+    $dbh = new PDO(
+        "mysql:host=" . $_ENV['DB_HOST'] . ";dbname=" . $_ENV['DB_NAME'],
+        $_ENV['DB_USER'],
+        $_ENV['DB_PASS'],
+        array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES 'utf8'")
+    );
+    echo "Connected successfully!";
+} catch (PDOException $e) {
+    exit("Error: " . $e->getMessage());
 }
-catch (PDOException $e)
-{
-exit("Error: " . $e->getMessage());
-}
+?>
 
-
-
-?><!--  Orginal Author Name: Mayuri K. 
- for any PHP, Codeignitor, Laravel OR Python work contact me at mayuri.infospace@gmail.com  
- Visit website : www.mayurik.com -->  
